@@ -1,0 +1,7 @@
+.text-primary-gc {
+  color: #005eb8;
+}
+a.text-primary:hover,
+a.text-primary:focus {
+  color: #00a9e0;
+}
